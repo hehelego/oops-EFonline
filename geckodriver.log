@@ -1,0 +1,1441 @@
+
+(/usr/lib/firefox/firefox:137751): GLib-GObject-WARNING **: 17:29:05.268: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:137751): GLib-GObject-CRITICAL **: 17:29:05.269: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:137751): GLib-GObject-WARNING **: 17:29:05.273: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:137751): GLib-GObject-CRITICAL **: 17:29:05.273: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:137761): GLib-GObject-WARNING **: 17:29:05.600: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:137761): GLib-GObject-CRITICAL **: 17:29:05.600: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:137761): GLib-GObject-WARNING **: 17:29:05.603: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:137761): GLib-GObject-CRITICAL **: 17:29:05.603: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606210146185	Marionette	INFO	Listening on port 41071
+1606210146316	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:137863): GLib-GObject-WARNING **: 17:29:07.864: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:137863): GLib-GObject-CRITICAL **: 17:29:07.864: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:137863): GLib-GObject-WARNING **: 17:29:07.867: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:137863): GLib-GObject-CRITICAL **: 17:29:07.867: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 121ms)
+1606210338043	Marionette	INFO	Stopped listening on port 41071
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker24, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:280:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:617:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:160:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\ndestroy@resource://devtools/shared/protocol/Front.js:65:11\ndestroy@resource://devtools/client/fronts/inspector.js:104:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:664:17\n", "resource://devtools/shared/protocol/Front.js", 101))
+
+(/usr/lib/firefox/firefox:140231): GLib-GObject-WARNING **: 17:32:44.419: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:140231): GLib-GObject-CRITICAL **: 17:32:44.419: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:140231): GLib-GObject-WARNING **: 17:32:44.423: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:140231): GLib-GObject-CRITICAL **: 17:32:44.423: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:140238): GLib-GObject-WARNING **: 17:32:44.771: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:140238): GLib-GObject-CRITICAL **: 17:32:44.771: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:140238): GLib-GObject-WARNING **: 17:32:44.775: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:140238): GLib-GObject-CRITICAL **: 17:32:44.775: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606210365303	Marionette	INFO	Listening on port 46719
+1606210365421	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:140338): GLib-GObject-WARNING **: 17:32:46.919: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:140338): GLib-GObject-CRITICAL **: 17:32:46.919: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:140338): GLib-GObject-WARNING **: 17:32:46.923: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:140338): GLib-GObject-CRITICAL **: 17:32:46.926: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:141855): GLib-GObject-WARNING **: 17:35:21.090: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:141855): GLib-GObject-CRITICAL **: 17:35:21.090: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:141855): GLib-GObject-WARNING **: 17:35:21.095: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:141855): GLib-GObject-CRITICAL **: 17:35:21.095: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:141862): GLib-GObject-WARNING **: 17:35:21.441: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:141862): GLib-GObject-CRITICAL **: 17:35:21.441: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:141862): GLib-GObject-WARNING **: 17:35:21.446: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:141862): GLib-GObject-CRITICAL **: 17:35:21.446: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606210521934	Marionette	INFO	Listening on port 39531
+1606210522056	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:141984): GLib-GObject-WARNING **: 17:35:23.545: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:141984): GLib-GObject-CRITICAL **: 17:35:23.545: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:141984): GLib-GObject-WARNING **: 17:35:23.549: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:141984): GLib-GObject-CRITICAL **: 17:35:23.549: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606210523859	Marionette	INFO	Stopped listening on port 46719
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1606210559673	Marionette	INFO	Stopped listening on port 39531
+
+(/usr/lib/firefox/firefox:143024): GLib-GObject-WARNING **: 17:37:07.192: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:143024): GLib-GObject-CRITICAL **: 17:37:07.192: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:143024): GLib-GObject-WARNING **: 17:37:07.196: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:143024): GLib-GObject-CRITICAL **: 17:37:07.196: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:143034): GLib-GObject-WARNING **: 17:37:07.638: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:143034): GLib-GObject-CRITICAL **: 17:37:07.638: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:143034): GLib-GObject-WARNING **: 17:37:07.641: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:143034): GLib-GObject-CRITICAL **: 17:37:07.641: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606210628124	Marionette	INFO	Listening on port 37275
+1606210628185	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:143156): GLib-GObject-WARNING **: 17:37:10.040: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:143156): GLib-GObject-CRITICAL **: 17:37:10.040: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:143156): GLib-GObject-WARNING **: 17:37:10.043: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:143156): GLib-GObject-CRITICAL **: 17:37:10.043: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1606211063836	Marionette	INFO	Stopped listening on port 37275
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:146488): GLib-GObject-WARNING **: 17:44:27.713: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:146488): GLib-GObject-CRITICAL **: 17:44:27.713: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:146488): GLib-GObject-WARNING **: 17:44:27.716: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:146488): GLib-GObject-CRITICAL **: 17:44:27.716: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:146495): GLib-GObject-WARNING **: 17:44:28.035: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:146495): GLib-GObject-CRITICAL **: 17:44:28.035: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:146495): GLib-GObject-WARNING **: 17:44:28.040: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:146495): GLib-GObject-CRITICAL **: 17:44:28.040: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606211068541	Marionette	INFO	Listening on port 41127
+1606211068595	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:146610): GLib-GObject-WARNING **: 17:44:30.242: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:146610): GLib-GObject-CRITICAL **: 17:44:30.242: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:146610): GLib-GObject-WARNING **: 17:44:30.246: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:146610): GLib-GObject-CRITICAL **: 17:44:30.246: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript error: https://cns2.ef-cdn.com/_shared/require.js/2.1.15/require.min.js, line 8: Error: Script error for: OneSignal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1606211115609	Marionette	INFO	Stopped listening on port 41127
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:148659): GLib-GObject-WARNING **: 17:49:15.383: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:148659): GLib-GObject-CRITICAL **: 17:49:15.383: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:148659): GLib-GObject-WARNING **: 17:49:15.386: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:148659): GLib-GObject-CRITICAL **: 17:49:15.386: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:148666): GLib-GObject-WARNING **: 17:49:15.697: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:148666): GLib-GObject-CRITICAL **: 17:49:15.697: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:148666): GLib-GObject-WARNING **: 17:49:15.701: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:148666): GLib-GObject-CRITICAL **: 17:49:15.701: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606211356255	Marionette	INFO	Listening on port 34881
+1606211356314	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:148765): GLib-GObject-WARNING **: 17:49:18.011: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:148765): GLib-GObject-CRITICAL **: 17:49:18.011: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:148765): GLib-GObject-WARNING **: 17:49:18.015: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:148765): GLib-GObject-CRITICAL **: 17:49:18.015: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1606211393234	Marionette	INFO	Stopped listening on port 34881
+
+(/usr/lib/firefox/firefox:149466): GLib-GObject-WARNING **: 17:50:14.008: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:149466): GLib-GObject-CRITICAL **: 17:50:14.008: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:149466): GLib-GObject-WARNING **: 17:50:14.012: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:149466): GLib-GObject-CRITICAL **: 17:50:14.012: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:149476): GLib-GObject-WARNING **: 17:50:14.335: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:149476): GLib-GObject-CRITICAL **: 17:50:14.335: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:149476): GLib-GObject-WARNING **: 17:50:14.338: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:149476): GLib-GObject-CRITICAL **: 17:50:14.338: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606211414791	Marionette	INFO	Listening on port 33533
+1606211414922	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:149593): GLib-GObject-WARNING **: 17:50:16.374: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:149593): GLib-GObject-CRITICAL **: 17:50:16.374: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:149593): GLib-GObject-WARNING **: 17:50:16.378: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:149593): GLib-GObject-CRITICAL **: 17:50:16.378: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript error: https://cns2.ef-cdn.com/_shared/require.js/2.1.15/require.min.js, line 8: Error: Script error for: OneSignal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1606211455849	Marionette	INFO	Stopped listening on port 33533
+
+(/usr/lib/firefox/firefox:150324): GLib-GObject-WARNING **: 17:51:50.565: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:150324): GLib-GObject-CRITICAL **: 17:51:50.565: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:150324): GLib-GObject-WARNING **: 17:51:50.569: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:150324): GLib-GObject-CRITICAL **: 17:51:50.569: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:150472): GLib-GObject-WARNING **: 17:51:50.843: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:150472): GLib-GObject-CRITICAL **: 17:51:50.843: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:150472): GLib-GObject-WARNING **: 17:51:50.846: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:150472): GLib-GObject-CRITICAL **: 17:51:50.847: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606211511522	Marionette	INFO	Listening on port 37767
+1606211511584	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:150573): GLib-GObject-WARNING **: 17:51:53.349: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:150573): GLib-GObject-CRITICAL **: 17:51:53.349: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:150573): GLib-GObject-WARNING **: 17:51:53.353: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:150573): GLib-GObject-CRITICAL **: 17:51:53.353: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:150571): GLib-GObject-WARNING **: 17:51:53.361: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:150571): GLib-GObject-CRITICAL **: 17:51:53.361: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:150571): GLib-GObject-WARNING **: 17:51:53.365: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:150571): GLib-GObject-CRITICAL **: 17:51:53.365: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1606211549222	Marionette	INFO	Stopped listening on port 37767
+
+(/usr/lib/firefox/firefox:154426): GLib-GObject-WARNING **: 18:01:00.995: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:154426): GLib-GObject-CRITICAL **: 18:01:00.995: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:154426): GLib-GObject-WARNING **: 18:01:00.998: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:154426): GLib-GObject-CRITICAL **: 18:01:00.998: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:154433): GLib-GObject-WARNING **: 18:01:01.333: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:154433): GLib-GObject-CRITICAL **: 18:01:01.333: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:154433): GLib-GObject-WARNING **: 18:01:01.336: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:154433): GLib-GObject-CRITICAL **: 18:01:01.336: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606212061795	Marionette	INFO	Listening on port 38467
+1606212061881	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:154561): GLib-GObject-WARNING **: 18:01:03.440: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:154561): GLib-GObject-CRITICAL **: 18:01:03.440: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:154561): GLib-GObject-WARNING **: 18:01:03.443: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:154561): GLib-GObject-CRITICAL **: 18:01:03.444: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:155766): GLib-GObject-WARNING **: 18:03:07.279: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:155766): GLib-GObject-CRITICAL **: 18:03:07.279: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:155766): GLib-GObject-WARNING **: 18:03:07.282: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:155766): GLib-GObject-CRITICAL **: 18:03:07.282: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:155789): GLib-GObject-WARNING **: 18:03:07.571: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:155789): GLib-GObject-CRITICAL **: 18:03:07.571: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:155789): GLib-GObject-WARNING **: 18:03:07.574: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:155789): GLib-GObject-CRITICAL **: 18:03:07.574: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606212188148	Marionette	INFO	Listening on port 44585
+1606212188209	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606212189740	Marionette	INFO	Stopped listening on port 38467
+
+(/usr/lib/firefox/firefox:155953): GLib-GObject-WARNING **: 18:03:09.888: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:155953): GLib-GObject-CRITICAL **: 18:03:09.888: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:155953): GLib-GObject-WARNING **: 18:03:09.891: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:155953): GLib-GObject-CRITICAL **: 18:03:09.891: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+(/usr/lib/firefox/firefox:156710): GLib-GObject-WARNING **: 18:03:32.705: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:156710): GLib-GObject-CRITICAL **: 18:03:32.705: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:156710): GLib-GObject-WARNING **: 18:03:32.708: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:156710): GLib-GObject-CRITICAL **: 18:03:32.708: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:156718): GLib-GObject-WARNING **: 18:03:33.030: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:156718): GLib-GObject-CRITICAL **: 18:03:33.030: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:156718): GLib-GObject-WARNING **: 18:03:33.033: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:156718): GLib-GObject-CRITICAL **: 18:03:33.033: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606212213456	Marionette	INFO	Listening on port 39367
+1606212213567	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:156855): GLib-GObject-WARNING **: 18:03:35.112: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:156855): GLib-GObject-CRITICAL **: 18:03:35.112: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:156855): GLib-GObject-WARNING **: 18:03:35.116: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:156855): GLib-GObject-CRITICAL **: 18:03:35.116: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1606212285560	Marionette	INFO	Stopped listening on port 39367
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:158193): GLib-GObject-WARNING **: 18:06:04.497: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:158193): GLib-GObject-CRITICAL **: 18:06:04.497: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:158193): GLib-GObject-WARNING **: 18:06:04.500: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:158193): GLib-GObject-CRITICAL **: 18:06:04.500: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:158200): GLib-GObject-WARNING **: 18:06:04.813: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:158200): GLib-GObject-CRITICAL **: 18:06:04.813: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:158200): GLib-GObject-WARNING **: 18:06:04.817: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:158200): GLib-GObject-CRITICAL **: 18:06:04.817: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606212365290	Marionette	INFO	Listening on port 35443
+1606212365398	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:158317): GLib-GObject-WARNING **: 18:06:06.874: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:158317): GLib-GObject-CRITICAL **: 18:06:06.874: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:158317): GLib-GObject-WARNING **: 18:06:06.878: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:158317): GLib-GObject-CRITICAL **: 18:06:06.878: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("store is null", "resource://devtools/client/webconsole/webconsole-wrapper.js", 220))
+TypeError: store is null: dispatchSplitConsoleCloseButtonToggle@resource://devtools/client/webconsole/webconsole-wrapper.js:220:5
+_onChangeSplitConsoleState@resource://devtools/client/webconsole/webconsole-ui.js:648:18
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+selectTool/<@resource://devtools/client/framework/toolbox.js:2646:12
+
+console.error: (new TypeError("store is null", "resource://devtools/client/webconsole/webconsole-wrapper.js", 220))
+TypeError: store is null: dispatchSplitConsoleCloseButtonToggle@resource://devtools/client/webconsole/webconsole-wrapper.js:220:5
+_onChangeSplitConsoleState@resource://devtools/client/webconsole/webconsole-ui.js:648:18
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+selectTool/<@resource://devtools/client/framework/toolbox.js:2646:12
+
+
+(/usr/lib/firefox/firefox:159225): GLib-GObject-WARNING **: 18:08:08.815: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:159225): GLib-GObject-CRITICAL **: 18:08:08.815: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:159225): GLib-GObject-WARNING **: 18:08:08.818: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:159225): GLib-GObject-CRITICAL **: 18:08:08.818: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+(/usr/lib/firefox/firefox:159848): GLib-GObject-WARNING **: 18:09:11.456: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:159848): GLib-GObject-CRITICAL **: 18:09:11.456: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:159848): GLib-GObject-WARNING **: 18:09:11.460: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:159848): GLib-GObject-CRITICAL **: 18:09:11.460: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:159855): GLib-GObject-WARNING **: 18:09:11.849: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:159855): GLib-GObject-CRITICAL **: 18:09:11.849: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:159855): GLib-GObject-WARNING **: 18:09:11.852: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:159855): GLib-GObject-CRITICAL **: 18:09:11.852: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606212552226	Marionette	INFO	Listening on port 41823
+1606212552338	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:159982): GLib-GObject-WARNING **: 18:09:13.870: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:159982): GLib-GObject-CRITICAL **: 18:09:13.870: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:159982): GLib-GObject-WARNING **: 18:09:13.873: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:159982): GLib-GObject-CRITICAL **: 18:09:13.873: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606213060146	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1606214372577	Marionette	INFO	Stopped listening on port 41823
+
+(/usr/lib/firefox/firefox:175786): GLib-GObject-WARNING **: 18:46:41.244: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:175786): GLib-GObject-CRITICAL **: 18:46:41.244: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:175786): GLib-GObject-WARNING **: 18:46:41.248: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:175786): GLib-GObject-CRITICAL **: 18:46:41.248: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:175793): GLib-GObject-WARNING **: 18:46:41.585: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:175793): GLib-GObject-CRITICAL **: 18:46:41.585: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:175793): GLib-GObject-WARNING **: 18:46:41.589: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:175793): GLib-GObject-CRITICAL **: 18:46:41.589: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606214802113	Marionette	INFO	Listening on port 38145
+1606214802186	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:175902): GLib-GObject-WARNING **: 18:46:43.744: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:175902): GLib-GObject-CRITICAL **: 18:46:43.744: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:175902): GLib-GObject-WARNING **: 18:46:43.747: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:175902): GLib-GObject-CRITICAL **: 18:46:43.747: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+(/usr/lib/firefox/firefox:176997): GLib-GObject-WARNING **: 18:48:46.654: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:176997): GLib-GObject-CRITICAL **: 18:48:46.655: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:176997): GLib-GObject-WARNING **: 18:48:46.659: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:176997): GLib-GObject-CRITICAL **: 18:48:46.661: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:177004): GLib-GObject-WARNING **: 18:48:47.004: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:177004): GLib-GObject-CRITICAL **: 18:48:47.004: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:177004): GLib-GObject-WARNING **: 18:48:47.007: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:177004): GLib-GObject-CRITICAL **: 18:48:47.007: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606214927536	Marionette	INFO	Listening on port 43015
+1606214927632	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:177110): GLib-GObject-WARNING **: 18:48:49.245: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:177110): GLib-GObject-CRITICAL **: 18:48:49.245: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:177110): GLib-GObject-WARNING **: 18:48:49.248: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:177110): GLib-GObject-CRITICAL **: 18:48:49.248: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript error: https://cns2.ef-cdn.com/_shared/require.js/2.1.15/require.min.js, line 8: Error: Script error for: OneSignal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+
+(firefox:176745): Gtk-CRITICAL **: 18:49:23.884: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:176745): Gtk-CRITICAL **: 18:49:24.121: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+
+(firefox:176745): Gtk-CRITICAL **: 18:50:04.049: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:176745): Gtk-CRITICAL **: 18:50:04.479: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+
+(firefox:176745): Gtk-CRITICAL **: 18:50:57.732: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:176745): Gtk-CRITICAL **: 18:50:57.758: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 697))
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+
+(firefox:176745): Gtk-CRITICAL **: 19:09:32.368: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:176745): Gtk-CRITICAL **: 19:09:32.758: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+
+(firefox:176745): Gtk-CRITICAL **: 19:10:22.881: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:176745): Gtk-CRITICAL **: 19:10:23.286: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1606216364498	Marionette	INFO	Stopped listening on port 43015
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(/usr/lib/firefox/firefox:185791): GLib-GObject-WARNING **: 19:12:54.064: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:185791): GLib-GObject-CRITICAL **: 19:12:54.064: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:185791): GLib-GObject-WARNING **: 19:12:54.067: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:185791): GLib-GObject-CRITICAL **: 19:12:54.068: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:185804): GLib-GObject-WARNING **: 19:12:54.546: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:185804): GLib-GObject-CRITICAL **: 19:12:54.546: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:185804): GLib-GObject-WARNING **: 19:12:54.550: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:185804): GLib-GObject-CRITICAL **: 19:12:54.551: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606216375017	Marionette	INFO	Listening on port 44307
+1606216375124	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:185908): GLib-GObject-WARNING **: 19:12:56.701: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:185908): GLib-GObject-CRITICAL **: 19:12:56.701: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:185908): GLib-GObject-WARNING **: 19:12:56.703: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:185908): GLib-GObject-CRITICAL **: 19:12:56.704: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1606216465919	Marionette	INFO	Stopped listening on port 44307
+
+(/usr/lib/firefox/firefox:186876): GLib-GObject-WARNING **: 19:14:54.011: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:186876): GLib-GObject-CRITICAL **: 19:14:54.011: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:186876): GLib-GObject-WARNING **: 19:14:54.014: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:186876): GLib-GObject-CRITICAL **: 19:14:54.015: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:187021): GLib-GObject-WARNING **: 19:14:54.294: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:187021): GLib-GObject-CRITICAL **: 19:14:54.294: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:187021): GLib-GObject-WARNING **: 19:14:54.298: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:187021): GLib-GObject-CRITICAL **: 19:14:54.298: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606216494990	Marionette	INFO	Listening on port 41871
+1606216495054	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:187129): GLib-GObject-WARNING **: 19:14:56.588: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:187129): GLib-GObject-CRITICAL **: 19:14:56.589: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:187129): GLib-GObject-WARNING **: 19:14:56.594: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:187129): GLib-GObject-CRITICAL **: 19:14:56.594: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1606216532552	Marionette	INFO	Stopped listening on port 41871
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(/usr/lib/firefox/firefox:201957): GLib-GObject-WARNING **: 19:40:50.652: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:201957): GLib-GObject-CRITICAL **: 19:40:50.652: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:201957): GLib-GObject-WARNING **: 19:40:50.681: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:201957): GLib-GObject-CRITICAL **: 19:40:50.682: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:201964): GLib-GObject-WARNING **: 19:40:50.990: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:201964): GLib-GObject-CRITICAL **: 19:40:50.990: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:201964): GLib-GObject-WARNING **: 19:40:50.994: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:201964): GLib-GObject-CRITICAL **: 19:40:50.994: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606218051579	Marionette	INFO	Listening on port 34791
+1606218051684	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:202060): GLib-GObject-WARNING **: 19:40:53.215: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:202060): GLib-GObject-CRITICAL **: 19:40:53.215: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:202060): GLib-GObject-WARNING **: 19:40:53.218: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:202060): GLib-GObject-CRITICAL **: 19:40:53.218: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+(/usr/lib/firefox/firefox:202818): GLib-GObject-WARNING **: 19:42:01.482: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:202818): GLib-GObject-CRITICAL **: 19:42:01.483: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:202818): GLib-GObject-WARNING **: 19:42:01.486: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:202818): GLib-GObject-CRITICAL **: 19:42:01.486: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:202825): GLib-GObject-WARNING **: 19:42:01.920: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:202825): GLib-GObject-CRITICAL **: 19:42:01.920: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:202825): GLib-GObject-WARNING **: 19:42:01.922: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:202825): GLib-GObject-CRITICAL **: 19:42:01.922: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606218122477	Marionette	INFO	Listening on port 45077
+1606218122557	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:202935): GLib-GObject-WARNING **: 19:42:04.072: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:202935): GLib-GObject-CRITICAL **: 19:42:04.072: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:202935): GLib-GObject-WARNING **: 19:42:04.075: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:202935): GLib-GObject-CRITICAL **: 19:42:04.075: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cns1.ef-cdn.com/ETFileMergeHandler.ashx?f=AFMAYwByAGkAcAB0AHwANAAzADIAMAAwAHwALwBwAGEAcgB0AG4AZQByAC8AYwBvAHIAcAAvAF8AcwBjAHIAaQBwAHQAcwAvAGMAbwBtAG0AbwBuAC4AagBzACwALwBwAGEAcgB0AG4AZQByAC8AYwBvAHIAcAAvAF8AcwBjAHIAaQBwAHQAcwAvAGwAbwBnAGkAbgAuAGoAcwAsAC8AcABhAHIAdABuAGUAcgAvAGMAbwByAHAALwBfAHMAYwByAGkAcAB0AHMALwBjAGEAcAB0AGMAaABhAC0AbABvAGcAaQBuAC4AagBzA&p=Cncp&ctr=cn&v=47-1&s, line 385: TypeError: $(...).validate is not a function
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1606218244817	Marionette	INFO	Stopped listening on port 45077
+
+(/usr/lib/firefox/firefox:204421): GLib-GObject-WARNING **: 19:44:20.964: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:204421): GLib-GObject-CRITICAL **: 19:44:20.964: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:204421): GLib-GObject-WARNING **: 19:44:21.035: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:204421): GLib-GObject-CRITICAL **: 19:44:21.035: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:204428): GLib-GObject-WARNING **: 19:44:21.309: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:204428): GLib-GObject-CRITICAL **: 19:44:21.309: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:204428): GLib-GObject-WARNING **: 19:44:21.312: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:204428): GLib-GObject-CRITICAL **: 19:44:21.312: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606218261879	Marionette	INFO	Listening on port 44979
+1606218261953	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:204539): GLib-GObject-WARNING **: 19:44:23.534: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:204539): GLib-GObject-CRITICAL **: 19:44:23.535: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:204539): GLib-GObject-WARNING **: 19:44:23.538: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:204539): GLib-GObject-CRITICAL **: 19:44:23.538: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1606218366218	Marionette	INFO	Stopped listening on port 44979
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(/usr/lib/firefox/firefox:206496): GLib-GObject-WARNING **: 19:49:07.072: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:206496): GLib-GObject-CRITICAL **: 19:49:07.072: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:206496): GLib-GObject-WARNING **: 19:49:07.076: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:206496): GLib-GObject-CRITICAL **: 19:49:07.076: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:206503): GLib-GObject-WARNING **: 19:49:07.395: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:206503): GLib-GObject-CRITICAL **: 19:49:07.395: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:206503): GLib-GObject-WARNING **: 19:49:07.398: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:206503): GLib-GObject-CRITICAL **: 19:49:07.399: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606218548071	Marionette	INFO	Listening on port 41157
+1606218548205	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:206637): GLib-GObject-WARNING **: 19:49:09.810: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:206637): GLib-GObject-CRITICAL **: 19:49:09.810: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:206637): GLib-GObject-WARNING **: 19:49:09.813: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:206637): GLib-GObject-CRITICAL **: 19:49:09.814: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+(/usr/lib/firefox/firefox:207712): GLib-GObject-WARNING **: 19:51:20.185: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:207712): GLib-GObject-CRITICAL **: 19:51:20.185: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:207712): GLib-GObject-WARNING **: 19:51:20.226: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:207712): GLib-GObject-CRITICAL **: 19:51:20.226: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:207722): GLib-GObject-WARNING **: 19:51:20.511: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:207722): GLib-GObject-CRITICAL **: 19:51:20.511: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:207722): GLib-GObject-WARNING **: 19:51:20.515: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:207722): GLib-GObject-CRITICAL **: 19:51:20.515: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606218680989	Marionette	INFO	Listening on port 42325
+1606218681118	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:207839): GLib-GObject-WARNING **: 19:51:22.649: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:207839): GLib-GObject-CRITICAL **: 19:51:22.649: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:207839): GLib-GObject-WARNING **: 19:51:22.654: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:207839): GLib-GObject-CRITICAL **: 19:51:22.654: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1606218732444	Marionette	INFO	Stopped listening on port 42325
+
+(/usr/lib/firefox/firefox:210224): GLib-GObject-WARNING **: 19:56:51.793: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:210224): GLib-GObject-CRITICAL **: 19:56:51.794: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:210224): GLib-GObject-WARNING **: 19:56:51.796: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:210224): GLib-GObject-CRITICAL **: 19:56:51.796: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:210231): GLib-GObject-WARNING **: 19:56:52.102: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:210231): GLib-GObject-CRITICAL **: 19:56:52.102: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:210231): GLib-GObject-WARNING **: 19:56:52.106: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:210231): GLib-GObject-CRITICAL **: 19:56:52.106: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606219012563	Marionette	INFO	Listening on port 39941
+1606219012656	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:210364): GLib-GObject-WARNING **: 19:56:54.221: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:210364): GLib-GObject-CRITICAL **: 19:56:54.221: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:210364): GLib-GObject-WARNING **: 19:56:54.224: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:210364): GLib-GObject-CRITICAL **: 19:56:54.224: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+(/usr/lib/firefox/firefox:211021): GLib-GObject-WARNING **: 19:57:53.278: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:211021): GLib-GObject-CRITICAL **: 19:57:53.278: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:211021): GLib-GObject-WARNING **: 19:57:53.287: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:211021): GLib-GObject-CRITICAL **: 19:57:53.287: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:211046): GLib-GObject-WARNING **: 19:57:53.604: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:211046): GLib-GObject-CRITICAL **: 19:57:53.604: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:211046): GLib-GObject-WARNING **: 19:57:53.607: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:211046): GLib-GObject-CRITICAL **: 19:57:53.607: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606219074180	Marionette	INFO	Listening on port 34805
+1606219074264	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:211162): GLib-GObject-WARNING **: 19:57:55.797: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:211162): GLib-GObject-CRITICAL **: 19:57:55.797: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:211162): GLib-GObject-WARNING **: 19:57:55.800: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:211162): GLib-GObject-CRITICAL **: 19:57:55.800: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151104, line 1: TypeError: window.Notification is undefined
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:212173): GLib-GObject-WARNING **: 19:59:27.772: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:212173): GLib-GObject-CRITICAL **: 19:59:27.772: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:212173): GLib-GObject-WARNING **: 19:59:27.775: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:212173): GLib-GObject-CRITICAL **: 19:59:27.775: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:212180): GLib-GObject-WARNING **: 19:59:28.080: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:212180): GLib-GObject-CRITICAL **: 19:59:28.080: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:212180): GLib-GObject-WARNING **: 19:59:28.083: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:212180): GLib-GObject-CRITICAL **: 19:59:28.084: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606219168693	Marionette	INFO	Listening on port 35979
+1606219168834	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:212312): GLib-GObject-WARNING **: 19:59:30.320: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:212312): GLib-GObject-CRITICAL **: 19:59:30.320: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:212312): GLib-GObject-WARNING **: 19:59:30.323: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:212312): GLib-GObject-CRITICAL **: 19:59:30.323: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+(/usr/lib/firefox/firefox:212876): GLib-GObject-WARNING **: 19:59:58.208: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:212876): GLib-GObject-CRITICAL **: 19:59:58.208: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:212876): GLib-GObject-WARNING **: 19:59:58.211: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:212876): GLib-GObject-CRITICAL **: 19:59:58.211: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:212901): GLib-GObject-WARNING **: 19:59:58.601: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:212901): GLib-GObject-CRITICAL **: 19:59:58.601: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:212901): GLib-GObject-WARNING **: 19:59:58.606: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:212901): GLib-GObject-CRITICAL **: 19:59:58.606: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606219199271	Marionette	INFO	Listening on port 42067
+1606219199338	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:213021): GLib-GObject-WARNING **: 20:00:00.925: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:213021): GLib-GObject-CRITICAL **: 20:00:00.925: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:213021): GLib-GObject-WARNING **: 20:00:00.928: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:213021): GLib-GObject-CRITICAL **: 20:00:00.928: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+(/usr/lib/firefox/firefox:214051): GLib-GObject-WARNING **: 20:01:28.355: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:214051): GLib-GObject-CRITICAL **: 20:01:28.355: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:214051): GLib-GObject-WARNING **: 20:01:28.359: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:214051): GLib-GObject-CRITICAL **: 20:01:28.359: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:214058): GLib-GObject-WARNING **: 20:01:28.725: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:214058): GLib-GObject-CRITICAL **: 20:01:28.725: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:214058): GLib-GObject-WARNING **: 20:01:28.729: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:214058): GLib-GObject-CRITICAL **: 20:01:28.729: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606219289130	Marionette	INFO	Listening on port 33793
+1606219289185	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:214177): GLib-GObject-WARNING **: 20:01:30.755: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:214177): GLib-GObject-CRITICAL **: 20:01:30.755: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:214177): GLib-GObject-WARNING **: 20:01:30.758: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:214177): GLib-GObject-CRITICAL **: 20:01:30.758: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+(/usr/lib/firefox/firefox:214603): GLib-GObject-WARNING **: 20:01:45.273: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:214603): GLib-GObject-CRITICAL **: 20:01:45.274: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:214603): GLib-GObject-WARNING **: 20:01:45.302: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:214603): GLib-GObject-CRITICAL **: 20:01:45.302: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:214616): GLib-GObject-WARNING **: 20:01:45.557: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:214616): GLib-GObject-CRITICAL **: 20:01:45.557: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:214616): GLib-GObject-WARNING **: 20:01:45.560: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:214616): GLib-GObject-CRITICAL **: 20:01:45.560: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606219306028	Marionette	INFO	Listening on port 33951
+1606219306097	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:214717): GLib-GObject-WARNING **: 20:01:47.681: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:214717): GLib-GObject-CRITICAL **: 20:01:47.681: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:214717): GLib-GObject-WARNING **: 20:01:47.684: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:214717): GLib-GObject-CRITICAL **: 20:01:47.684: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+(/usr/lib/firefox/firefox:215092): GLib-GObject-WARNING **: 20:01:54.983: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:215092): GLib-GObject-CRITICAL **: 20:01:54.983: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:215092): GLib-GObject-WARNING **: 20:01:55.044: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:215092): GLib-GObject-CRITICAL **: 20:01:55.044: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:215099): GLib-GObject-WARNING **: 20:01:55.336: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:215099): GLib-GObject-CRITICAL **: 20:01:55.336: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:215099): GLib-GObject-WARNING **: 20:01:55.338: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:215099): GLib-GObject-CRITICAL **: 20:01:55.339: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606219315826	Marionette	INFO	Listening on port 43515
+1606219315932	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:215207): GLib-GObject-WARNING **: 20:01:57.528: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:215207): GLib-GObject-CRITICAL **: 20:01:57.528: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:215207): GLib-GObject-WARNING **: 20:01:57.531: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:215207): GLib-GObject-CRITICAL **: 20:01:57.531: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0)'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0)'
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+
+(firefox:214828): Gtk-CRITICAL **: 20:06:25.446: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+1606219610849	Marionette	INFO	Stopped listening on port 43515
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:217863): GLib-GObject-WARNING **: 20:07:04.433: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:217863): GLib-GObject-CRITICAL **: 20:07:04.433: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:217863): GLib-GObject-WARNING **: 20:07:04.436: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:217863): GLib-GObject-CRITICAL **: 20:07:04.436: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:217870): GLib-GObject-WARNING **: 20:07:04.743: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:217870): GLib-GObject-CRITICAL **: 20:07:04.743: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:217870): GLib-GObject-WARNING **: 20:07:04.746: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:217870): GLib-GObject-CRITICAL **: 20:07:04.746: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1606219625204	Marionette	INFO	Listening on port 45595
+1606219625284	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:217977): GLib-GObject-WARNING **: 20:07:06.804: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:217977): GLib-GObject-CRITICAL **: 20:07:06.804: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:217977): GLib-GObject-WARNING **: 20:07:06.808: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:217977): GLib-GObject-CRITICAL **: 20:07:06.808: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://corporate.ef.com.cn/partner/Corp/_scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.10.2/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns2.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns2.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0)'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0)'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript warning: https://cns1.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns1.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns.ef-cdn.com/_shared/jquery/1.9.1/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cns.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cns.ef-cdn.com/_shared/moment/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1606220592699	Marionette	INFO	Stopped listening on port 45595
