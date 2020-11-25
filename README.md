@@ -2,7 +2,7 @@
 
 ## description
 
-a python script that helps you to pass EF online coures exercies efficiently.
+a python script that helps you to pass EF online exercises efficiently.
 
 
 ## dependencies

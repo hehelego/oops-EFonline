@@ -2,7 +2,7 @@
 # distributed under CC0 license.
 
 
-# fuck EF online, a python script that helps you to skip EF online exercies. 
+# fuck EF online, a python script that helps you to skip EF online exercises. 
 # 在上海科技大学,除了英语课,哪里都可以学英语.  
 
 if __name__=='__main__':
