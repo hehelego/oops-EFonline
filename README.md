@@ -4,6 +4,7 @@
 
 a python script that helps you to pass EF online exercises efficiently.
 
+> **有问题请发issue** ,在IM上面联系我不会取得及时反馈,邮件不回. 
 
 ## dependencies
 
@@ -17,14 +18,16 @@ GPL v3.0
 
 ## todo
 
-- [ ] 不再等待确定时间后操作,而是检查所需的元素是否已经出现在DOM中
-- [ ] 自动解决alert/notification
-- [ ] 检查并删除mask,防止不可点击exception
+- [x] 不再等待确定时间后操作,而是检查所需的元素是否已经出现在DOM中(partially.为了防止操作过快,快过浏览器响应,仍然保持了一个操作间隔时间,你可以修改代码中的`RESP_TIME`适应不同响应速度)
+- [x] 自动解决alert/notification
+- [x] 检查并删除mask,防止不可点击exception
+- [ ] 自动寻找仍未完成的lesson
+- [ ] 整单元掉过
+- [ ] `webdriver.option.headless=true`降低资源占用.
 
 
 ## usage
 
-> 有问题请发issue,在IM上面联系我不会取得及时反馈,邮件不回. 
 
 ```bash
 git clone https://github.com/hehelego/oops-EFonline.git

@@ -1,8 +1,7 @@
 # written by spinach/hehelego
 # distributed under CC0 license.
 
-
-# fuck EF online, a python script that helps you to skip EF online exercises. 
+# f**k EF online, a python script that helps you to skip EF online exercises. 
 # 在上海科技大学,除了英语课,哪里都可以学英语.  
 
 if __name__=='__main__':
@@ -25,9 +24,16 @@ var data={
 }
 fetch("https://corporate.ef.com.cn/services/api/school/command/scoring/submitactivityscore?c=countrycode%3dcn%7cculturecode%3dzh-CN%7cpartnercode%3dCncp%7csiteversion%3d47-1%7cstudentcountrycode%3dcn%7cdevicetypeid%3d1%7cproductid%3d100",data).then((x)=>console.log(x));
 '''
+
+    from selenium import webdriver
+    from selenium.common.exceptions import ElementClickInterceptedException,NoSuchElementException
+    from time import sleep
+    from os import system as shellcmd
+    from random import randint as gen
+    
     def wait_cond(cond):
         while not cond():
-            sleep(1)
+            sleep(RESP_TIME)
         return None
     def wait_interval(dt):
         sleep(dt)
@@ -36,24 +42,25 @@ fetch("https://corporate.ef.com.cn/services/api/school/command/scoring/submitact
     url_home=r'https://corporate.ef.com.cn/campus/mypage/home'
     RESP_TIME=1
 
-
-    from selenium import webdriver
-    from selenium.common.exceptions import ElementClickInterceptedException
-    from time import sleep
-    from random import randint as gen
-
-
-    
+    shellcmd('clear')
 
     option = webdriver.firefox.options.Options()
     option.set_preference("dom.webnotifications.enabled",False)
     driver = webdriver.Firefox(options=option)
 
+    def test_page_loaded():
+        condition = None
+        try:
+            elem = driver.find_element_by_css_selector('ul.ets-ui-acc-act-nav')
+            condition = elem.is_displayed
+        except NoSuchElementException:
+            condition = False
+        return condition
 
     def solve_lesson():
         while True:
-            try: ## TODO: replace the wait_interval with wait:html element loaded
-                wait_interval(RESP_TIME)
+            wait_interval(RESP_TIME)
+            try:
                 links = driver \
                         .find_element_by_css_selector('ul.ets-ui-acc-act-nav') \
                         .find_elements_by_tag_name('a')[:-1]
@@ -62,8 +69,8 @@ fetch("https://corporate.ef.com.cn/services/api/school/command/scoring/submitact
                     actid= actid.split('!')[-1]
                     driver.execute_script( script \
                             .replace('<act-id>',actid) \
-                            .replace('<score>',str(100-gen(0,10))) \
-                            .replace('<time-cost>',str(gen(1,5)))\
+                            .replace('<score>',str(100-gen(0,5))) \
+                            .replace('<time-cost>',str(gen(2,5)))\
                             )
                     pass
                 wait_interval(RESP_TIME)
@@ -73,26 +80,36 @@ fetch("https://corporate.ef.com.cn/services/api/school/command/scoring/submitact
                 driver.find_element_by_css_selector('div.ets-btn-white.ets-btn-large').click()
                 if finished:
                     break
-            except Exception:
-                wait_cond(lambda :'OK'==input('Manual intervention required(OK to continue)').upper())
-                ## TODO:
-                ## delete div.tck-ui-container and retry
-                ## click <a class="tck-ui-ft-link tck-ui-ft-cancel" data-action="cancel">取消</a>
+            except ElementClickInterceptedException:
+                try:
+                    driver.find_element_by_css_selector('a.tck-ui-ft-link.tck-ui-ft-cancel').click()
+                except:
+                    pass
+            except:
+                pass
         return None
 
 
 
     try:
+        print('please login your EF account')
         driver.get(url_login)
-        wait_cond(lambda :input('please login(OK to continue)').upper()=='OK')
         wait_cond(lambda :driver.current_url.startswith(url_home))
+        print('login success')
+        wait_interval(RESP_TIME);shellcmd('clear')
+
 
         while True:
-            user_input = input('The lesson have been fully loaded?').upper()
-            if user_input== 'BREAK':
-                break
+            driver.refresh()
+            print('please manually navigate to the test page; ctrl+C to break')
+            wait_cond(test_page_loaded)
+
+            print('hacking')
             solve_lesson()
+            print('done')
+            wait_interval(RESP_TIME);shellcmd('clear')
             pass
     finally:
         driver.quit()
+        print('exit')
         pass
