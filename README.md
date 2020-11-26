@@ -36,16 +36,14 @@ sudo pacman -S firefox geckodriver python python-selenium
 python fuckEF.py
 ```
 
-在浏览器中登录,在CLI输入ok后按enter,手动点击到答题界面.    
-看到`The lesson have been fully loaded?`时,确认跳过测试输入ok,否则输入break之后按enter继续.  
-
-如果这一节最后有speak那么会需要你手动操作一下...  
-
-之后手动点到下一课的答题界面,确认页面加载完成,看到`fully loaded`之后输入ok继续...  
-重复上面的操作.  
-
-
-根据本人实测,大概半小时能刷一个module.
+0. get python installed on your system
+1. clone this repository
+2. install dependencies: selenium python binding + firefox + geckodriver
+3. cd into the repo and run the python script. `cd oops-EFonline && python fuckEF.py`
+4. login your account in the browser controlled by this program, the program will detect whether you have successfully logged in.
+5. manually navigate to the testing page, where you can see the exercises.  when a testing page is deteced, the program will help you to skip the test.
+6. wait until the lesson is finished, you will be leaded back to the `studyplan` page.  
+7. repeat step 5/6. have fun.
 
 
 --------------------------------------
