@@ -4,7 +4,8 @@
 
 a python script that helps you to pass EF online exercises efficiently. it can automatically solve 1 level each time.
 
-> **有问题请发issue** ,在IM上面联系我不会取得及时反馈,邮件不回. 
+> spinach: **有问题请发issue** ,在IM上面联系我不会取得及时反馈,邮件不回. 
+> teafrogsf: use IM or email is also OK, because timely feedback is often not available XD.
 
 ## dependencies
 
