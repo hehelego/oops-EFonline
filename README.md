@@ -11,7 +11,7 @@ a python script that helps you to pass EF online exercises efficiently. it can a
 
 - python-selenium
 - browser
-- (for Linux) geckodriver
+- geckodriver
 
 ## license
 
@@ -53,7 +53,7 @@ python fuckEF.py
 0. get python installed on your system
 1. clone this repository
 2. install pip
-3. install dependencies: selenium python binding + browser (use Tuna for faster speed)
+3. install dependencies: selenium python binding + browser (use Tuna for faster speed) + selenium driver
 4. cd into the repo and run the python script. `cd oops-EFonline && python fuckEF.py`
 5. login your account in the browser controlled by this program, the program will detect whether you have successfully logged in.
 6. then the program will automatically run. have fun.

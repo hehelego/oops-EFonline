@@ -45,6 +45,7 @@ fetch("https://corporate.ef.com.cn/services/api/school/command/scoring/submitact
     shellcmd('clear')
 
     option = webdriver.chrome.options.Options()
+    option.add_argument('-incognito')
     #option.set_preference("dom.webnotifications.enabled",False)
     driver = webdriver.Chrome(options=option)
 
