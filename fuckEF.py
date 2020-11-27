@@ -44,9 +44,10 @@ fetch("https://corporate.ef.com.cn/services/api/school/command/scoring/submitact
 
     shellcmd('clear')
 
-    option = webdriver.firefox.options.Options()
-    option.set_preference("dom.webnotifications.enabled",False)
-    driver = webdriver.Firefox(options=option)
+    option = webdriver.chrome.options.Options()
+    option.add_argument('-incognito')
+    #option.set_preference("dom.webnotifications.enabled",False)
+    driver = webdriver.Chrome(options=option)
 
     def test_page_loaded():
         condition = None
@@ -81,16 +82,41 @@ fetch("https://corporate.ef.com.cn/services/api/school/command/scoring/submitact
                 if finished:
                     break
             except ElementClickInterceptedException:
-                try:
-                    driver.find_element_by_css_selector('a.tck-ui-ft-link.tck-ui-ft-cancel').click()
-                except:
                     pass
+            except:
+                pass
+            try:
+                driver.find_element_by_css_selector('a.tck-ui-ft-link.tck-ui-ft-cancel').click()
             except:
                 pass
         return None
 
-
-
+    def find_lesson():
+        print('locating')
+        driver.get(r'https://corporate.ef.com.cn/school/studyplan')
+        while True:
+            wait_interval(RESP_TIME)
+            try:
+                elem=driver.find_element_by_class_name('btn.btn-primary.btn-block.btn-sm.ets-sp-step-start')
+                if elem.is_displayed:
+                    elem.click()
+                    return
+            except: pass
+            wait_interval(RESP_TIME)
+            try:
+                driver.find_element_by_class_name('ets-sp-sqn-item.ets-suggest').click()
+                continue
+            except: pass
+            wait_interval(RESP_TIME)
+            try:
+                driver.find_element_by_class_name('ets-sp-sqn-item.ets-suggest.ets-active').click()
+                continue
+            except: pass
+            wait_interval(RESP_TIME)
+            try:
+                elem=driver.find_element_by_class_name('glyphicon.icon-angle-right')
+                if elem.is_displayed: elem.click()
+            except: pass
     try:
         print('please login your EF account')
         driver.get(url_login)
@@ -102,8 +128,8 @@ fetch("https://corporate.ef.com.cn/services/api/school/command/scoring/submitact
         while True:
             driver.refresh()
             print('please manually navigate to the test page; ctrl+C to break')
+            find_lesson()
             wait_cond(test_page_loaded)
-
             print('hacking')
             solve_lesson()
             print('done')
