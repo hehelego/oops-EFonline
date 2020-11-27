@@ -1,4 +1,4 @@
-# written by spinach/hehelego
+# written by spinach/hehelego & teafrogsf
 # distributed under CC0 license.
 
 # f**k EF online, a python script that helps you to skip EF online exercises. 

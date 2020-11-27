@@ -5,6 +5,7 @@
 a python script that helps you to pass EF online exercises efficiently. it can automatically solve 1 level each time.
 
 > spinach: **有问题请发issue** ,在IM上面联系我不会取得及时反馈,邮件不回. 
+> 
 > teafrogsf: use IM or email is also OK, because timely feedback is often not available XD.
 
 ## dependencies
@@ -53,7 +54,7 @@ python fuckEF.py
 0. get python installed on your system
 1. clone this repository
 2. install pip
-3. install dependencies: selenium python binding + browser (use Tuna for faster speed) + selenium driver
+3. install dependencies: selenium python binding + browser (use Tuna for faster speed) + selenium driver for your browser
 4. cd into the repo and run the python script. `cd oops-EFonline && python fuckEF.py`
 5. login your account in the browser controlled by this program, the program will detect whether you have successfully logged in.
 6. then the program will automatically run. have fun.
@@ -65,10 +66,16 @@ microphone notification: it does not seem to affect use.
 :%s/Firefox/Sth
 :%s/firefox/sth
 ```
-actually you just need to modify 2 lines and you can easily find them. btw, plz comment this line
+actually you just need to modify 2 lines and you can easily find them. btw, 
 ```py
 option.set_preference("dom.webnotifications.enabled",False)
 ```
+is only available for firefox,and
+```py
+option.add_argument('-incognito')
+```
+is only available for chrome.
+
 --------------------------------------
 
 ==这是一个分割线,下面没有任何有意义的内容==
