@@ -4,14 +4,13 @@
 
 a python script that helps you to pass EF online exercises efficiently. it can automatically solve 1 level each time.
 
-> spinach: **有问题请发issue** ,在IM上面联系我不会取得及时反馈,邮件不回. 
+> spinach: **有问题请发issue** ,在IM上面联系我不会取得及时反馈,邮件不回.  
 > teafrogsf: use IM or email is also OK, because timely feedback is often not available XD.
 
 ## dependencies
 
 - python-selenium
-- browser
-- geckodriver
+- `firefox+geckodriver` or `googlechrome+chromedriver`
 
 ## license
 
@@ -23,12 +22,13 @@ GPL v3.0
 - [x] 自动解决alert/notification
 - [x] 检查并删除mask,防止不可点击exception
 - [x] 自动寻找仍未完成的lesson
-- [x] 整单元掉过
+- [x] 整单元跳过
 - [ ] `webdriver.option.headless=true`降低资源占用.
 
 
-## usage for Linux
+## usage
 
+### on a linux distro(arch linux for example)
 
 ```bash
 git clone https://github.com/hehelego/oops-EFonline.git
@@ -44,12 +44,14 @@ python fuckEF.py
 4. login your account in the browser controlled by this program, the program will detect whether you have successfully logged in.
 5. then the program will automatically run. have fun.
 
-## usage for Windows
+### on Windows
+
 ```bash
 git clone https://github.com/hehelego/oops-EFonline.git
 cd oops-EFonline
 python fuckEF.py
 ```
+
 0. get python installed on your system
 1. clone this repository
 2. install pip
@@ -57,23 +59,20 @@ python fuckEF.py
 4. cd into the repo and run the python script. `cd oops-EFonline && python fuckEF.py`
 5. login your account in the browser controlled by this program, the program will detect whether you have successfully logged in.
 6. then the program will automatically run. have fun.
-## known bugs
+
+
+### choose another browser
+
+edit `fuckEF.py` change `browser_choice` to `'chrome'` if you prefer googlechrome.
+
+
+## known issues
+
 negative integer: it does not seem to affect use.
 microphone notification: it does not seem to affect use.
-## if you use Chrome or else
-```
-:%s/Firefox/Sth
-:%s/firefox/sth
-```
-actually you just need to modify 2 lines and you can easily find them. btw, plz comment this line
-```py
-option.set_preference("dom.webnotifications.enabled",False)
-```
---------------------------------------
 
-==这是一个分割线,下面没有任何有意义的内容==
 
---------------------------------------
+----------------------------------------
 
 ## 关于这玩意怎么搞的
 

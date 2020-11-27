@@ -4,8 +4,15 @@
 # f**k EF online, a python script that helps you to skip EF online exercises. 
 # 在上海科技大学,除了英语课,哪里都可以学英语.  
 
-if __name__=='__main__':
-    script=\
+browser_choice = 'firefox'
+
+url_login=r'https://corporate.ef.com.cn/partner/Corp/default.aspx'
+url_home=r'https://corporate.ef.com.cn/campus/mypage/home'
+
+RESP_TIME=1
+
+
+script=\
 '''
 var data={
     "credentials": "include",
@@ -25,6 +32,8 @@ var data={
 fetch("https://corporate.ef.com.cn/services/api/school/command/scoring/submitactivityscore?c=countrycode%3dcn%7cculturecode%3dzh-CN%7cpartnercode%3dCncp%7csiteversion%3d47-1%7cstudentcountrycode%3dcn%7cdevicetypeid%3d1%7cproductid%3d100",data).then((x)=>console.log(x));
 '''
 
+if __name__=='__main__':
+
     from selenium import webdriver
     from selenium.common.exceptions import ElementClickInterceptedException,NoSuchElementException
     from time import sleep
@@ -38,16 +47,22 @@ fetch("https://corporate.ef.com.cn/services/api/school/command/scoring/submitact
     def wait_interval(dt):
         sleep(dt)
         return None
-    url_login=r'https://corporate.ef.com.cn/partner/Corp/default.aspx'
-    url_home=r'https://corporate.ef.com.cn/campus/mypage/home'
-    RESP_TIME=1
 
     shellcmd('clear')
 
-    option = webdriver.chrome.options.Options()
-    option.add_argument('-incognito')
-    #option.set_preference("dom.webnotifications.enabled",False)
-    driver = webdriver.Chrome(options=option)
+
+    option=driver=None
+    if 'firefox' in browser_choice.lower():
+        option = webdriver.firefox.options.Options()
+        option.set_preference("dom.webnotifications.enabled",False)
+        driver = webdriver.Firefox(options=option)
+        pass
+    else:
+        option = webdriver.chrome.options.Options()
+        option.add_argument('-incognito')
+        driver = webdriver.Chrome(options=option)
+        pass
+
 
     def test_page_loaded():
         condition = None
